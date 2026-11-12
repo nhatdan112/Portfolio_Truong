@@ -1,0 +1,10 @@
+{
+  "description": "A professional portfolio website for graphic designers to introduce themselves and showcase creative work in a bold, polished layout with smooth visual effects.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
